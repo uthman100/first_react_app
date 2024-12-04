@@ -28,7 +28,7 @@ const showNavbar =() => {
                     <div  className='navbar'>
                         <a href=''>Home</a>
                         <a href=''>Featured</a>
-                        <a href=''>Arivals</a>
+                        <a href=''>New Arivals</a>
                         <a href=''>Reveiws</a>
                         <a href=''>Blogs</a>
                     </div>
